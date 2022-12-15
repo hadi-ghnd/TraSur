@@ -39,7 +39,7 @@ In order to improve vehicle type classification accuracy, we have trained a new 
 
 ### Citation
 ```
-@software{TraSur2022,
+@misc{TraSur2022,
   author = {Ghahremannezhad, Hadi},
   month = {12},
   title = {{TraSur Dataset for Object Detection in Traffic Surveillance Videos}},
