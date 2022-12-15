@@ -1,4 +1,4 @@
-# Traffic-Object-Detection
+# TraSur (Object Detection Dataset for Traffic Surveillance)
 A Dataset for Object Detection in Traffic Surveillance
 
 ### Data link
