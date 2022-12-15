@@ -39,21 +39,12 @@ In order to improve vehicle type classification accuracy, we have trained a new 
 
 ### Citation
 ```
-@misc{TraSur2022,
+@misc{Ghahremannezhad_TraSur_Dataset_for_2022,
   author = {Ghahremannezhad, Hadi},
   title = {{TraSur Dataset for Object Detection in Traffic Surveillance Videos}},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/hadi-ghnd/TraSur}},
-  version = {1.0.0},
-  year = {2022}
-}
-
-@software{Ghahremannezhad_TraSur_Dataset_for_2022,
-  author = {Ghahremannezhad, Hadi},
-  month = {12},
-  title = {{TraSur Dataset for Object Detection in Traffic Surveillance Videos}},
-  url = {https://github.com/hadi-ghnd/TraSur},
   version = {1.0.0},
   year = {2022}
 }
