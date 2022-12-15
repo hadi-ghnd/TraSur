@@ -16,7 +16,7 @@ preferred-citation:
     orcid: "https://orcid.org/0000-0003-2795-4464"
   publisher: "GitHub"
   journal: "GitHub repository"
-  howpublished : "\url{https://github.com/hadi-ghnd/TraSur}"
+  url: "https://github.com/hadi-ghnd/TraSur"
   version: "1.0.0"
   month: 12
   title: "TraSur Dataset for Object Detection in Traffic Surveillance Videos"
