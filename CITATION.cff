@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+- family-names: "Ghahremannezhad"
+  given-names: "Hadi"
+  orcid: "https://orcid.org/0000-0003-2795-4464"
+title: "TraSur Dataset for Object Detection in Traffic Surveillance Videos"
+version: 1.0.0
+date-released: 2022-12-15
+url: "https://github.com/hadi-ghnd/TraSur"
